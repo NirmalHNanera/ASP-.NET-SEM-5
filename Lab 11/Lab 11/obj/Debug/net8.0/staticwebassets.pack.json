@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/scopedcss/projectbundle/Lab 11.bundle.scp.css",
+      "PackagePath": "staticwebassets/Lab 11.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/Himanshu.jpg",
+      "PackagePath": "staticwebassets/img/Himanshu.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/hh.jpg",
+      "PackagePath": "staticwebassets/img/hh.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/himanshuk.jpg",
+      "PackagePath": "staticwebassets/img/himanshuk.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-1.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-1.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-2.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-2.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-3.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-3.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-4.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-4.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-5.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-5.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-6.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-6.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-7.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-7.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-8.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-8.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-9.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-9.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-details-1.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-details-2.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/portfolio/portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets/img/portfolio/portfolio-details-3.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/profile-img.jpg",
+      "PackagePath": "staticwebassets/img/profile-img.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/testimonials/testimonials-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-1.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/testimonials/testimonials-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-2.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/testimonials/testimonials-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-3.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/testimonials/testimonials-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-4.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/img/testimonials/testimonials-5.jpg",
+      "PackagePath": "staticwebassets/img/testimonials/testimonials-5.jpg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/scss/Readme.txt",
+      "PackagePath": "staticwebassets/scss/Readme.txt"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/aos/aos.cjs.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.cjs.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/aos/aos.css",
+      "PackagePath": "staticwebassets/vendor/aos/aos.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/aos/aos.esm.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.esm.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/aos/aos.js",
+      "PackagePath": "staticwebassets/vendor/aos/aos.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/aos/aos.js.map",
+      "PackagePath": "staticwebassets/vendor/aos/aos.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/css/animations.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/animations.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/css/boxicons.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/boxicons.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/css/boxicons.min.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/boxicons.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/css/transformations.css",
+      "PackagePath": "staticwebassets/vendor/boxicons/css/transformations.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/fonts/boxicons.eot",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.eot"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/fonts/boxicons.svg",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.svg"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/fonts/boxicons.ttf",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.ttf"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/fonts/boxicons.woff",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.woff"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/boxicons/fonts/boxicons.woff2",
+      "PackagePath": "staticwebassets/vendor/boxicons/fonts/boxicons.woff2"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/glightbox/css/plyr.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/plyr.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/glightbox/css/plyr.min.css",
+      "PackagePath": "staticwebassets/vendor/glightbox/css/plyr.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/isotope-layout/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/vendor/isotope-layout/isotope.pkgd.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/isotope-layout/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/vendor/isotope-layout/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/purecounter/purecounter_vanilla.js",
+      "PackagePath": "staticwebassets/vendor/purecounter/purecounter_vanilla.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/purecounter/purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets/vendor/purecounter/purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/typed.js/typed.cjs",
+      "PackagePath": "staticwebassets/vendor/typed.js/typed.cjs"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/typed.js/typed.cjs.map",
+      "PackagePath": "staticwebassets/vendor/typed.js/typed.cjs.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/typed.js/typed.module.js",
+      "PackagePath": "staticwebassets/vendor/typed.js/typed.module.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/typed.js/typed.module.js.map",
+      "PackagePath": "staticwebassets/vendor/typed.js/typed.module.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/typed.js/typed.umd.js",
+      "PackagePath": "staticwebassets/vendor/typed.js/typed.umd.js"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/typed.js/typed.umd.js.map",
+      "PackagePath": "staticwebassets/vendor/typed.js/typed.umd.js.map"
+    },
+    {
+      "Id": "/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/wwwroot/vendor/waypoints/noframework.waypoints.js",
+      "PackagePath": "staticwebassets/vendor/waypoints/noframework.waypoints.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Lab 11.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Lab 11.props",
+      "PackagePath": "build\\Lab 11.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Lab 11.props",
+      "PackagePath": "buildMultiTargeting\\Lab 11.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Lab 11.props",
+      "PackagePath": "buildTransitive\\Lab 11.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

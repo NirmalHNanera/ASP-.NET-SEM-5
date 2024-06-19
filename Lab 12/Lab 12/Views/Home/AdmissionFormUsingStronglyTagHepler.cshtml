@@ -1,0 +1,130 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Admission Form";
+
+    // Define strongly typed variables
+    string studentName = "";
+    string branch = "";
+    string city = "";
+    string semester = "";
+    string mobileNumber = "";
+    string email = "";
+    DateTime birthDate = DateTime.Today;
+    string address = "";
+    bool outdoorSports = false;
+    bool indoorSports = false;
+    bool singing = false;
+    bool dancing = false;
+    bool travelling = false;
+    bool swimming = false;
+    string gender = "Male"; // Default to Male
+}
+
+@using (Html.BeginForm("SubmitAdmission", "Admission", FormMethod.Post, new { @class = "pt-3" }))
+{
+    <div class="container border border-gray rounded p-5 shadow">
+        <h2><i class="bi bi-person-plus me-2 pb-5" style="font-size: 25px"></i>Admission Form</h2>
+        <hr />
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.LabelFor(m => studentName, "Student Name")
+                    @Html.TextBoxFor(m => studentName, new { @class = "form-control", placeholder = "Student Name", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => branch, "Branch")
+                    @Html.DropDownListFor(m => branch, new SelectList(new[] { "", "Computer Science Engineering", "Mechanical", "Civil", "Electrical" }), "Select Branch", new { @class = "form-control", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => city, "City")
+                    @Html.DropDownListFor(m => city, new SelectList(new[] { "", "Jamnagar", "Rajkot", "Ahmedabad", "Morbi" }), "Select City", new { @class = "form-control", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => semester, "Semester")
+                    @Html.TextBoxFor(m => semester, new { @class = "form-control", placeholder = "Semester", required = "required" })
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.LabelFor(m => mobileNumber, "Mobile Number")
+                    @Html.TextBoxFor(m => mobileNumber, new { @class = "form-control", placeholder = "Mobile Number", type = "tel", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => email, "Email")
+                    @Html.TextBoxFor(m => email, new { @class = "form-control", placeholder = "Email", type = "email", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => birthDate, "Birth Date")
+                    @Html.TextBoxFor(m => birthDate, new { @class = "form-control", placeholder = "Birth Date", type = "date", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => address, "Address")
+                    @Html.TextAreaFor(m => address, new { @class = "form-control", placeholder = "Address", rows = "4", required = "required" })
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    @Html.Label("Hobbies")
+                    <div>
+                        <div class="form-check form-check-inline">
+                            @Html.CheckBoxFor(m => outdoorSports, new { @class = "form-check-input", id = "Outdoor" })
+                            @Html.Label("Outdoor", "Outdoor Sports", new { @class = "form-check-label mx-2" })
+                        </div>
+                        <div class="form-check form-check-inline">
+                            @Html.CheckBoxFor(m => indoorSports, new { @class = "form-check-input", id = "Indoor" })
+                            @Html.Label("Indoor", "Indoor Sports", new { @class = "form-check-label mx-2" })
+                        </div>
+                        <div class="form-check form-check-inline">
+                            @Html.CheckBoxFor(m => singing, new { @class = "form-check-input", id = "Singing" })
+                            @Html.Label("Singing", "Singing", new { @class = "form-check-label mx-2" })
+                        </div>
+                        <div class="form-check form-check-inline">
+                            @Html.CheckBoxFor(m => dancing, new { @class = "form-check-input", id = "Dancing" })
+                            @Html.Label("Dancing", "Dancing", new { @class = "form-check-label mx-2" })
+                        </div>
+                        <div class="form-check form-check-inline">
+                            @Html.CheckBoxFor(m => travelling, new { @class = "form-check-input", id = "Travelling" })
+                            @Html.Label("Travelling", "Travelling", new { @class = "form-check-label mx-2" })
+                        </div>
+                        <div class="form-check form-check-inline">
+                            @Html.CheckBoxFor(m => swimming, new { @class = "form-check-input", id = "Swimming" })
+                            @Html.Label("Swimming", "Swimming", new { @class = "form-check-label mx-2" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="form-group">
+                    @Html.Label("Gender")
+                    <div>
+                        <div class="form-check form-check-inline">
+                            @Html.RadioButtonFor(m => gender, "Male", new { id = "male", @class = "form-check-input" })
+                            @Html.Label("male", "Male", new { @class = "form-check-label mx-2" })
+                        </div>
+                        <div class="form-check form-check-inline">
+                            @Html.RadioButtonFor(m => gender, "Female", new { id = "female", @class = "form-check-input" })
+                            @Html.Label("female", "Female", new { @class = "form-check-label mx-2" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <button type="submit" class="btn btn-primary px-5 mt-3">Submit</button>
+            </div>
+        </div>
+    </div>
+}

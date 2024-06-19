@@ -1,0 +1,30 @@
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/appsettings.Development.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/appsettings.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/Lab 11.staticwebassets.runtime.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/Lab 11
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/Lab 11.deps.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/Lab 11.runtimeconfig.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/Lab 11.dll
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/bin/Debug/net8.0/Lab 11.pdb
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.AssemblyInfoInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.AssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.csproj.CoreCompileInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.MvcApplicationPartsAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.RazorAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.RazorAssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets.build.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets.development.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets/msbuild.Lab 11.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets/msbuild.build.Lab 11.props
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Lab 11.props
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Lab 11.props
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/scopedcss/bundle/Lab 11.styles.css
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/scopedcss/projectbundle/Lab 11.bundle.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.dll
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/refint/Lab 11.dll
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.pdb
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/Lab 11.genruntimeconfig.cache
+/Users/yashkhokhar/RiderProjects/Lab 11/Lab 11/obj/Debug/net8.0/ref/Lab 11.dll

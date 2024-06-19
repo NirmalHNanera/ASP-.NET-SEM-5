@@ -1,0 +1,86 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    // Define strongly typed variables
+    string employeeName = "";
+    string department = "";
+    string email = "";
+    DateTime dateOfBirth = DateTime.Today;
+    string phoneNumber = "";
+    string address = "";
+    string gender = "Male"; // Default to Male
+    bool skillCSharp = false;
+    bool skillJava = false;
+    bool skillPython = false;
+}
+
+@using (Html.BeginForm("EmployeeSave", "Employee", FormMethod.Post, new { @class = "pt-3" }))
+{
+    <div class="container border border-gray rounded p-5 shadow">
+        <h2><i class="bi bi-person-plus me-2 pb-5" style="font-size: 25px"></i>Add Employee</h2>
+        <hr />
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.LabelFor(m => employeeName)
+                    @Html.TextBoxFor(m => employeeName, new { @class = "form-control", placeholder = "Employee Name", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => department)
+                    @Html.DropDownListFor(m => department, new SelectList(new[] { "", "HR", "IT", "Finance", "Operations" }), "Select Department", new { @class = "form-control", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => email)
+                    @Html.TextBoxFor(m => email, new { @class = "form-control", placeholder = "Email", type = "email", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => dateOfBirth)
+                    @Html.TextBoxFor(m => dateOfBirth, new { @class = "form-control", placeholder = "Date of Birth", type = "date", required = "required" })
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    @Html.LabelFor(m => phoneNumber)
+                    @Html.TextBoxFor(m => phoneNumber, new { @class = "form-control", placeholder = "Phone Number", type = "tel", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => address)
+                    @Html.TextAreaFor(m => address, new { @class = "form-control", placeholder = "Address", rows = "4", required = "required" })
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => gender)
+                    <div>
+                        @Html.RadioButtonFor(m => gender, "Male", new { id = "male", @checked = "checked" })
+                        @Html.Label("male", "Male", new { @class = "mx-2" })
+                        @Html.RadioButtonFor(m => gender, "Female", new { id = "female" })
+                        @Html.Label("female", "Female", new { @class = "mx-2" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Skills")
+                    <div>
+                        @Html.CheckBoxFor(m => skillCSharp, new { id = "skillCSharp" })
+                        @Html.Label("skillCSharp", "C#", new { @class = "mx-2" })
+
+                        @Html.CheckBoxFor(m => skillJava, new { id = "skillJava" })
+                        @Html.Label("skillJava", "Java", new { @class = "mx-2" })
+
+                        @Html.CheckBoxFor(m => skillPython, new { id = "skillPython" })
+                        @Html.Label("skillPython", "Python", new { @class = "mx-2" })
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary px-5 mt-3">Submit</button>
+    </div>
+}

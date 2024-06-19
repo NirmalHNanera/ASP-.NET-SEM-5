@@ -1,0 +1,105 @@
+@model List<Lab_7.Models.EmployeeModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee List</title>
+    <style>
+        .btn {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            cursor: pointer;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+
+        .btn-primary {
+            color: #fff;
+            background-color: #337ab7;
+            border-color: #2e6da4;
+        }
+
+        .btn-danger {
+            color: #fff;
+            background-color: #d9534f;
+            border-color: #d43f3a;
+        }
+
+        .btn-success {
+            color: #fff;
+            background-color: #5cb85c;
+            border-color: #4cae4c;
+        }
+    </style>
+</head>
+<body>
+    <form action="@Url.Action("DeleteMany", "Employee")" method="post">
+        <h2>
+            Employee List
+            <span class="ml-auto">
+                <button type="submit" class="btn btn-danger">Delete Selected</button>
+            </span>
+        </h2>
+
+        <!-- Table displaying employees -->
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Select</th>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Position</th>
+                    <th>Salary</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td><input type="checkbox" name="IdsToDelete" value="@employee.Id" /></td>
+                        <td>@employee.Id</td>
+                        <td>@employee.Name</td>
+                        <td>@employee.Position</td>
+                        <td>@employee.Salary</td>
+                        <td>
+                            <a class="btn btn-success" href="@Url.Action("Edit", "Employee", new { id = employee.Id })">
+                                Edit
+                            </a>
+                            <form method="post" action="@Url.Action("Delete", "Employee", new { id = employee.Id })" style="display:inline;">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </form>
+
+    <!-- Add/Edit Employee form -->
+    <h3>Add/Edit Employee</h3>
+    <form action="@Url.Action("Save", "Employee")" method="post">
+        <input type="hidden" name="Id" value="@ViewBag.Id" />
+        <div>
+            <label>Name:</label>
+            <input type="text" name="Name" value="@ViewBag.Name" required />
+        </div>
+        <div>
+            <label>Position:</label>
+            <input type="text" name="Position" value="@ViewBag.Position" required />
+        </div>
+        <div>
+            <label>Salary:</label>
+            <input type="number" name="Salary" value="@ViewBag.Salary"  required />
+        </div>
+        <button type="submit" class="btn btn-success">Save</button>
+    </form>
+</body>
+</html>

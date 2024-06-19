@@ -1,0 +1,33 @@
+@model Lab_5.Models.CalculatorModel
+@{
+ViewBag.Title = "Simple Calculator";
+}
+
+<h2>Simple Calculator</h2>
+
+<form asp-controller="Calculator" asp-action="Calculator" method="post">
+    <div>
+        <label>First Number:</label>
+        <input type="text" name="number1" value="@Model.number1"/>
+    </div>
+    <div>
+        <label>Second Number:</label>
+        <input type="text" name="number2" value="@Model.number2"/>
+    </div>
+    <div>
+        <input type="radio" name="operation" value="Add" @(Model.operation == "Add" ? "checked" : "")/>
+        <label>Add</label>
+        <input type="radio" name="operation" value="Subtract" @(Model.operation == "Subtract" ? "checked" : "")/>
+        <label>Subtract</label>
+        <input type="radio" name="operation" value="Multiply" @(Model.operation == "Multiply" ? "checked" : "")/>
+        <label>Multiply</label>
+        <input type="radio" name="operation" value="Divide" @(Model.operation == "Divide" ? "checked" : "")/>
+        <label>Divide</label>
+    </div>
+    <div>
+        <input type="submit" value="Calculate"/>
+    </div>
+    <div>
+        <label>Result: @Model.result</label>
+    </div>
+</form>

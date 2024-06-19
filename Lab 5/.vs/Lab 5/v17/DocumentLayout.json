@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|c:\\users\\nirmal\\downloads\\yash khokhar-20240615t153829z-001\\yash khokhar\\lab 5\\lab 5\\views\\calculator\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|solutionrelative:lab 5\\views\\calculator\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|c:\\users\\nirmal\\downloads\\yash khokhar-20240615t153829z-001\\yash khokhar\\lab 5\\lab 5\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|solutionrelative:lab 5\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|c:\\users\\nirmal\\downloads\\yash khokhar-20240615t153829z-001\\yash khokhar\\lab 5\\lab 5\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|solutionrelative:lab 5\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|c:\\users\\nirmal\\downloads\\yash khokhar-20240615t153829z-001\\yash khokhar\\lab 5\\lab 5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4B341E0-58D2-487E-8258-EEA9A7598738}|Lab 5\\Lab 5.csproj|solutionrelative:lab 5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab 5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab 5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T12:41:41.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Views\\Calculator\\Calculator.cshtml",
+              "RelativeDocumentMoniker": "Lab 5\\Views\\Calculator\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Views\\Calculator\\Calculator.cshtml",
+              "RelativeToolTip": "Lab 5\\Views\\Calculator\\Calculator.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T05:33:04.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "Lab 5\\Models\\CalculatorModel.cs",
+              "ToolTip": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "Lab 5\\Models\\CalculatorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:32:56.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Lab 5\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\Nirmal\\Downloads\\Yash Khokhar-20240615T153829Z-001\\Yash Khokhar\\Lab 5\\Lab 5\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Lab 5\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:32:46.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TA\\LAB 12\\Lab 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\views\\home\\admissionformusingstronglytaghepler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\views\\home\\admissionformusingstronglytaghepler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\views\\home\\employeeformusingstronglytaghepler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\views\\home\\employeeformusingstronglytaghepler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\views\\home\\employeeformusingsimpletaghepler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\views\\home\\employeeformusingsimpletaghepler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\views\\home\\studentregistrationusingtaghelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\views\\home\\studentregistrationusingtaghelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|e:\\ta\\lab 12\\lab 12\\lab 12\\views\\home\\studentregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65ECEDBE-C523-40E7-9243-33553E5ABB67}|Lab 12\\Lab 12.csproj|solutionrelative:lab 12\\views\\home\\studentregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdmissionFormUsingStronglyTagHepler.cshtml",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\AdmissionFormUsingStronglyTagHepler.cshtml",
+              "RelativeDocumentMoniker": "Lab 12\\Views\\Home\\AdmissionFormUsingStronglyTagHepler.cshtml",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\AdmissionFormUsingStronglyTagHepler.cshtml",
+              "RelativeToolTip": "Lab 12\\Views\\Home\\AdmissionFormUsingStronglyTagHepler.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:31:05.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeFormUsingStronglyTagHepler.cshtml",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\EmployeeFormUsingStronglyTagHepler.cshtml",
+              "RelativeDocumentMoniker": "Lab 12\\Views\\Home\\EmployeeFormUsingStronglyTagHepler.cshtml",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\EmployeeFormUsingStronglyTagHepler.cshtml",
+              "RelativeToolTip": "Lab 12\\Views\\Home\\EmployeeFormUsingStronglyTagHepler.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:23:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeFormUsingSimpleTagHepler.cshtml",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\EmployeeFormUsingSimpleTagHepler.cshtml",
+              "RelativeDocumentMoniker": "Lab 12\\Views\\Home\\EmployeeFormUsingSimpleTagHepler.cshtml",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\EmployeeFormUsingSimpleTagHepler.cshtml",
+              "RelativeToolTip": "Lab 12\\Views\\Home\\EmployeeFormUsingSimpleTagHepler.cshtml",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:16:40.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRegistrationUsingTagHelper.cshtml",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\StudentRegistrationUsingTagHelper.cshtml",
+              "RelativeDocumentMoniker": "Lab 12\\Views\\Home\\StudentRegistrationUsingTagHelper.cshtml",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\StudentRegistrationUsingTagHelper.cshtml",
+              "RelativeToolTip": "Lab 12\\Views\\Home\\StudentRegistrationUsingTagHelper.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:09:56.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab 12\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab 12\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:55:21.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRegistration.cshtml",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\StudentRegistration.cshtml",
+              "RelativeDocumentMoniker": "Lab 12\\Views\\Home\\StudentRegistration.cshtml",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Home\\StudentRegistration.cshtml",
+              "RelativeToolTip": "Lab 12\\Views\\Home\\StudentRegistration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T04:55:16.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab 12\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\TA\\LAB 12\\Lab 12\\Lab 12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab 12\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T04:54:15.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

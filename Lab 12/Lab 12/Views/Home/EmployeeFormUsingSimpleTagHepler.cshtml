@@ -1,0 +1,91 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .label-con {
+        background-color: rgba(148, 212, 255, 0.3);
+        border-radius: 10px;
+        padding: 10px;
+        margin: 0px 20px 0px 0px;
+    }
+</style>
+
+<div class="container border border-gray rounded p-5 shadow">
+    <h2><i class="bi bi-gear me-2 pb-5" style="font-size: 25px"></i>Employee</h2>
+    <hr />
+    @using (Html.BeginForm("SaveEmployee", "Employee", FormMethod.Post, new { @class = "pt-3" }))
+    {
+        <div class="col my-4">
+            @Html.Label("EmployeeName", "Employee Name")
+            @Html.TextBox("EmployeeName", null, new { @class = "form-control", placeholder = "Employee Name", aria_label = "Employee name" })
+        </div>
+
+        <div class="col my-4 form-group">
+            @Html.Label("Department")
+            @Html.DropDownList("Department", new SelectList(new[] { "Select Department", "HR", "IT", "Finance", "Marketing" }), new { @class = "form-control" })
+        </div>
+
+        <div class="d-flex">
+            <div class="col me-2 form-group">
+                @Html.Label("City")
+                @Html.DropDownList("City", new SelectList(new[] { "Select City", "New York", "Los Angeles", "Chicago", "Houston" }), new { @class = "form-control" })
+            </div>
+
+            <div class="col">
+                @Html.Label("Designation")
+                @Html.TextBox("Designation", null, new { @class = "form-control", placeholder = "Enter your designation" })
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-around my-4">
+            <div class="flex-fill me-2">
+                @Html.Label("Employee Mobile no.")
+                @Html.TextBox("EmployeeMobileNo", null, new { @class = "form-control", placeholder = "Enter Employee Mobile no.", type = "number" })
+            </div>
+
+            <div class="flex-grow-1 me-2">
+                @Html.Label("Email")
+                @Html.TextBox("Email", null, new { @class = "form-control", placeholder = "Enter Email", type = "email" })
+            </div>
+
+            <div class="flex-grow-1">
+                @Html.Label("Birth Date")
+                @Html.TextBox("BirthDate", null, new { @class = "form-control", placeholder = "Enter Birthdate", type = "date" })
+            </div>
+        </div>
+
+        <div class="col my-4">
+            @Html.Label("Address")
+            @Html.TextArea("Address", null, new { @class = "form-control", placeholder = "Enter Address" })
+        </div>
+
+        <div class="col my-4">
+            @Html.Label("Skills")
+            <div class="d-flex mt-3">
+                @foreach (var skill in new[] { "Communication", "Teamwork", "Problem Solving", "Leadership", "Technical Skills" })
+                {
+                    <div class="d-flex label-con">
+                        <input type="checkbox" id="@skill.Replace(" ", "")" name="Skills" value="@skill" />
+                        <label class="mx-3" for="@skill.Replace(" ", "")">@skill</label>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="col my-4">
+            @Html.Label("Gender")
+            <div class="d-flex mt-3">
+                @foreach (var gender in new[] { "Male", "Female" })
+                {
+                    <div class="d-flex label-con">
+                        <input type="radio" id="@gender.ToLower()" name="Gender" value="@gender" @(gender == "Male" ? "checked" : "") />
+                        <label class="mx-3" for="@gender.ToLower()">@gender</label>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <button class="btn btn-primary px-5 mt-3">Submit</button>
+    }
+</div>

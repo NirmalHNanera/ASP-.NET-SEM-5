@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="jumbotron text-center">
+    <h1 class="display-4">Welcome to Your App</h1>
+    <p class="lead">This is a simple ASP.NET Core MVC application to upload and list files.</p>
+    <hr class="my-4">
+    <p>Click the buttons below to upload files or show the user list.</p>
+    <a class="btn btn-primary btn-lg" href="@Url.Action("UploadFiles", "Home")" role="button">Upload Files</a>
+    <a class="btn btn-secondary btn-lg" href="@Url.Action("ShowList", "Home")" role="button">Show User List</a>
+</div>

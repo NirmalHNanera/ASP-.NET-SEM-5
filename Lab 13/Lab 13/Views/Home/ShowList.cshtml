@@ -1,0 +1,34 @@
+@model IEnumerable<Lab_13.Models.UserFileUploadViewModel>
+
+@{
+ViewData["Title"] = "User List";
+}
+
+<h1>User List</h1>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Number</th>
+        <th>Uploaded Files</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+    <tr>
+        <td>@user.Name</td>
+        <td>@user.Number</td>
+        <td>
+            <ul class="list-group">
+                @foreach (var fileDetail in user.UploadedFiles)
+                {
+                <li class="list-group-item">@fileDetail.FileName (@fileDetail.FilePath)</li>
+                }
+            </ul>
+        </td>
+    </tr>
+    }
+    </tbody>
+</table>

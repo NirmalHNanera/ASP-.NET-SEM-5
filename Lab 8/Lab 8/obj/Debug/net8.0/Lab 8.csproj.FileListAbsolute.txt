@@ -1,0 +1,30 @@
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.AssemblyInfoInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.AssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.csproj.CoreCompileInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.MvcApplicationPartsAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.RazorAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.RazorAssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/appsettings.Development.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/appsettings.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/Lab 8.staticwebassets.runtime.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/Lab 8
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/Lab 8.deps.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/Lab 8.runtimeconfig.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/Lab 8.dll
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/bin/Debug/net8.0/Lab 8.pdb
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets.build.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets.development.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets/msbuild.Lab 8.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets/msbuild.build.Lab 8.props
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Lab 8.props
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Lab 8.props
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/scopedcss/bundle/Lab 8.styles.css
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/scopedcss/projectbundle/Lab 8.bundle.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.dll
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/refint/Lab 8.dll
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.pdb
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/Lab 8.genruntimeconfig.cache
+/Users/yashkhokhar/RiderProjects/Lab 8/Lab 8/obj/Debug/net8.0/ref/Lab 8.dll

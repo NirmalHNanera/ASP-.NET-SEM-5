@@ -1,0 +1,60 @@
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.AssemblyInfoInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.AssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.csproj.CoreCompileInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.MvcApplicationPartsAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.RazorAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.RazorAssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/appsettings.Development.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/appsettings.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/Lab 5.staticwebassets.runtime.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/Lab 5
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/Lab 5.deps.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/Lab 5.runtimeconfig.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/Lab 5.dll
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/bin/Debug/net8.0/Lab 5.pdb
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets.build.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets.development.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets/msbuild.Lab 5.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets/msbuild.build.Lab 5.props
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Lab 5.props
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Lab 5.props
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/scopedcss/bundle/Lab 5.styles.css
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/scopedcss/projectbundle/Lab 5.bundle.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.dll
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/refint/Lab 5.dll
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.pdb
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/Lab 5.genruntimeconfig.cache
+/Users/yashkhokhar/RiderProjects/Lab 5/Lab 5/obj/Debug/net8.0/ref/Lab 5.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\appsettings.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\Lab 5.staticwebassets.runtime.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\Lab 5.exe
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\Lab 5.deps.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\Lab 5.runtimeconfig.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\Lab 5.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\bin\Debug\net8.0\Lab 5.pdb
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.AssemblyInfoInputs.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.AssemblyInfo.cs
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.RazorAssemblyInfo.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.RazorAssemblyInfo.cs
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.Lab 5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab 5.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab 5.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab 5.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\scopedcss\bundle\Lab 5.styles.css
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\scopedcss\projectbundle\Lab 5.bundle.scp.css
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\refint\Lab 5.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.pdb
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\Lab 5.genruntimeconfig.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 5\Lab 5\obj\Debug\net8.0\ref\Lab 5.dll

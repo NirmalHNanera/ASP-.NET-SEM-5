@@ -1,0 +1,120 @@
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/appsettings.Development.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/appsettings.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/Lab 7.staticwebassets.runtime.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/Lab 7
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/Lab 7.deps.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/Lab 7.runtimeconfig.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/Lab 7.dll
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/bin/Debug/net8.0/Lab 7.pdb
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.AssemblyInfoInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.AssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.csproj.CoreCompileInputs.cache
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.MvcApplicationPartsAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.RazorAssemblyInfo.cache
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.RazorAssemblyInfo.cs
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets.build.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets.development.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets/msbuild.Lab 7.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets/msbuild.build.Lab 7.props
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Lab 7.props
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Lab 7.props
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/scopedcss/bundle/Lab 7.styles.css
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/scopedcss/projectbundle/Lab 7.bundle.scp.css
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.dll
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/refint/Lab 7.dll
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.pdb
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/Lab 7.genruntimeconfig.cache
+/Users/yashkhokhar/RiderProjects/Lab 7/Lab 7/obj/Debug/net8.0/ref/Lab 7.dll
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\appsettings.Development.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\appsettings.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.staticwebassets.runtime.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.exe
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.deps.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.runtimeconfig.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.dll
+D:\college\T.A\BTECH\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.pdb
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.AssemblyInfoInputs.cache
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.AssemblyInfo.cs
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.csproj.CoreCompileInputs.cache
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.MvcApplicationPartsAssemblyInfo.cache
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.RazorAssemblyInfo.cache
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.RazorAssemblyInfo.cs
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.build.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.development.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.Lab 7.Microsoft.AspNetCore.StaticWebAssets.props
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab 7.props
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab 7.props
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab 7.props
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.pack.json
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\bundle\Lab 7.styles.css
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\projectbundle\Lab 7.bundle.scp.css
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.dll
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\refint\Lab 7.dll
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.pdb
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.genruntimeconfig.cache
+D:\college\T.A\BTECH\Lab 7\Lab 7\obj\Debug\net8.0\ref\Lab 7.dll
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\appsettings.Development.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\appsettings.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.staticwebassets.runtime.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.exe
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.deps.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.runtimeconfig.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.dll
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.pdb
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.AssemblyInfoInputs.cache
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.AssemblyInfo.cs
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.csproj.CoreCompileInputs.cache
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.MvcApplicationPartsAssemblyInfo.cache
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.RazorAssemblyInfo.cache
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.RazorAssemblyInfo.cs
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.build.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.development.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.Lab 7.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab 7.props
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab 7.props
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab 7.props
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\bundle\Lab 7.styles.css
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\projectbundle\Lab 7.bundle.scp.css
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.dll
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\refint\Lab 7.dll
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.pdb
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.genruntimeconfig.cache
+F:\Teaching_Assistant\B_Tech\ASP.NET\Lab 7\Lab 7\obj\Debug\net8.0\ref\Lab 7.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\appsettings.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.staticwebassets.runtime.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.exe
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.deps.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.runtimeconfig.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\bin\Debug\net8.0\Lab 7.pdb
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.AssemblyInfoInputs.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.AssemblyInfo.cs
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.RazorAssemblyInfo.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.RazorAssemblyInfo.cs
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.Lab 7.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab 7.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab 7.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab 7.props
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\bundle\Lab 7.styles.css
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\scopedcss\projectbundle\Lab 7.bundle.scp.css
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\refint\Lab 7.dll
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.pdb
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\Lab 7.genruntimeconfig.cache
+C:\Users\Nirmal\Downloads\Yash Khokhar-20240615T153829Z-001\Yash Khokhar\Lab 7\Lab 7\obj\Debug\net8.0\ref\Lab 7.dll
